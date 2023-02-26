@@ -1,9 +1,9 @@
 def add(x,y):
     pass
 def sub(x,y):
-    pass
+    return x-y
 def mult(x,y):
-    pass
+    return x*y
 def rem(x,y):
     pass
 def div(x,y):
